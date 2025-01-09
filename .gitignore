@@ -36,3 +36,4 @@ env/
 # Static files and media
 /static/
 /media/
+/migrations/

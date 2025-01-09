@@ -4,7 +4,6 @@ from django.contrib.auth.models import User
 class Earning(models.Model):
     CATEGORY_CHOICES = [
         ('SALARY', 'Salary'),
-        ('FREELANCE', 'Freelance'),
         ('OTHER', 'Other'),
     ]
 
